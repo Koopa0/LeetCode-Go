@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Koopa0)
 
-Roman numerals are represented by seven different symbols: I , V , X , L , C , D and M .
+Roman numerals are represented by seven different symbols: ``` I ``` , ``` V ``` ,``` X ``` ,``` L ```,``` C ```,``` D ```and``` M ```.
 
 | Symbol | Value |
 |:---: |---: |
